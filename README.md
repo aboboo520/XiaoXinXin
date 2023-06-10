@@ -14,4 +14,4 @@
 
 ## 二、公众号二维码
 
-[图片](https://github.com/aboboo520/XiaoXinXin/assets/19463671/483a1343-ee2f-4daf-a734-ee7af567f948)
+![图片](https://github.com/aboboo520/XiaoXinXin/assets/19463671/0604f522-5397-40a6-9cf9-ca8e6980cca3)
