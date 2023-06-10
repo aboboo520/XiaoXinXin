@@ -15,3 +15,5 @@
 ## 二、公众号二维码
 
 [公众号标准色版](imgs/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88-6385703.png)
+
+公众号标准色版.png![图片](https://github.com/aboboo520/XiaoXinXin/assets/19463671/483a1343-ee2f-4daf-a734-ee7af567f948)
